@@ -20,4 +20,4 @@
 * salaries.csv: salaries for all employees
 * titles.csv: Job title for each employee 
 
-![ERD Diagram](/QuickDBD-export.png)
+![ERD Diagram](https://github.com/navistar792/sql-challenge/blob/main/EmployeeSQL/QuickDBD-export.png)
